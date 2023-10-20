@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+   // repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+   // repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        // The Flutter SDK uses its own Maven repository.
+        maven { url 'https://storage.googleapis.com/download.flutter.io' }
+    }
+}
+rootProject.name = "MP Gesture Recognizer"
+include ':app'
+setBinding(new Binding([gradle: this]))  // This line configures the binding for the Gradle scripting environment.
+evaluate(new File(  // This line tells Gradle to include and configure the Flutter module's build script.
+        settingsDir, '../android_asl_translation/flutter_module/.android/include_flutter.groovy'
+))

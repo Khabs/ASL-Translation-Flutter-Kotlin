@@ -79,4 +79,4 @@ _Loading screen to native from flutter._
 
 ___  
 
-> > _The readmeFile is formatted to be viewed in "https://stackedit.io/app#"_
+> > _This project is in its early stages."_

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Gigabyte\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\color_bg_nav_item.xml.flat",
-        "source": "C:\\Users\\Gigabyte\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\color\\bg_nav_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Gigabyte\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_ic_baseline_add_24.xml.flat",
         "source": "C:\\Users\\Gigabyte\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gigabyte\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\color_bg_nav_item.xml.flat",
+        "source": "C:\\Users\\Gigabyte\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\color\\bg_nav_item.xml"
     },
     {
         "merged": "C:\\Users\\Gigabyte\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\layout_activity_main.xml.flat",

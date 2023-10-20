@@ -1,4 +1,5 @@
 
+
   
   
 # flutter_asl_translation  
@@ -55,9 +56,27 @@ _Loading screen to native from flutter._
   
   
  ___
+ ### Developer Instructions:
+ >_1. Download Flutter & Android Studio along with other dependencies_
+ >
+ >_2. Open the project in android studio, select file>Sync project with gradle files._
+ >
+ >_3. In your root project directory, go to the terminal and type cd flutter_module, then type "flutter clean" hit enter, then type "flutter pub get"_
+ >
+ >_4. Go back to the root directory by typing "cd .." and you're done, you can now run the project on your android device or an emulator within android studio._
+ >
+
  ### Notes:  
 >* _Areas marked with "**TEMP DEBUG:**" are print statements that are not critical to the application's functionality. They are simply there to aid in the debugging process and should be removed after release._  
 >  
 >* _Items marked with "**TO DO:**" are incomplete tasks that are to be done_  
+
+ >## Usefull Links
+ >
+>>[MediaPipe Developer Documentation For Android](https://developer.android.com/reference/android/view/GestureDetector)
+>
+>>[Flutter Platform Channels Documentation](https://docs.flutter.dev/platform-integration/platform-channels?tab=type-mappings-kotlin-tab)
+
 ___  
-> > _The readmeFile is formatted to be viewed in "https://stackedit.io/app#"_
+
+> > _This project is in its early stages."_

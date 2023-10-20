@@ -79,4 +79,6 @@ _Loading screen to native from flutter._
 
 ___  
 
-> > _This project is in its early stages. Warning: Files may be incomplete. ( didn't confirm all files were uploaded yet )"_
+
+> > _This project is in its early stages."_
+

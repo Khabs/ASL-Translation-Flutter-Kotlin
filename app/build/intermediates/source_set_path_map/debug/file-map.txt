@@ -1,0 +1,54 @@
+com.google.mediapipe.examples.gesturerecognizer.app-material-1.7.0-0 C:\Users\Gigabyte\.gradle\caches\transforms-3\0591f8b5642056e946d19ec51c93b43b\transformed\material-1.7.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-appcompat-resources-1.5.1-1 C:\Users\Gigabyte\.gradle\caches\transforms-3\0c2875c7c0c5ba9d45d149319e0c7d11\transformed\appcompat-resources-1.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-drawerlayout-1.1.1-2 C:\Users\Gigabyte\.gradle\caches\transforms-3\0d8b7c7e8a5fffe79489ae64c32015fc\transformed\drawerlayout-1.1.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-coordinatorlayout-1.1.0-3 C:\Users\Gigabyte\.gradle\caches\transforms-3\1da0a88879eee1d7c4fb3098db9b2114\transformed\coordinatorlayout-1.1.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-savedstate-1.2.0-4 C:\Users\Gigabyte\.gradle\caches\transforms-3\1e087e653c4a618ff87174b8a5ecf6f8\transformed\savedstate-1.2.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-recyclerview-1.1.0-5 C:\Users\Gigabyte\.gradle\caches\transforms-3\202f779a024f3a7f9146d35bac0897fd\transformed\recyclerview-1.1.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-lifecycle-livedata-core-2.5.1-6 C:\Users\Gigabyte\.gradle\caches\transforms-3\30411c5d7e428659f51786834331a634\transformed\lifecycle-livedata-core-2.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-navigation-fragment-2.5.3-7 C:\Users\Gigabyte\.gradle\caches\transforms-3\380eea5531474039ebcca8f8eb9ae487\transformed\navigation-fragment-2.5.3\res
+com.google.mediapipe.examples.gesturerecognizer.app-camera-view-1.2.0-alpha02-8 C:\Users\Gigabyte\.gradle\caches\transforms-3\3e229c55fe1a0a252d123d1bdbd6f85b\transformed\camera-view-1.2.0-alpha02\res
+com.google.mediapipe.examples.gesturerecognizer.app-activity-1.5.1-9 C:\Users\Gigabyte\.gradle\caches\transforms-3\4c6b651300b001b42bdab11d11bfae01\transformed\activity-1.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-annotation-experimental-1.1.0-10 C:\Users\Gigabyte\.gradle\caches\transforms-3\514b9cf2f50580fa2f8e27511408f60c\transformed\annotation-experimental-1.1.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-emoji2-1.2.0-11 C:\Users\Gigabyte\.gradle\caches\transforms-3\5159192cb2196ead269b4610d6292232\transformed\emoji2-1.2.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-lifecycle-viewmodel-ktx-2.5.1-12 C:\Users\Gigabyte\.gradle\caches\transforms-3\6b6fb20c6707e8b4f039053fd734f722\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-core-ktx-1.8.0-13 C:\Users\Gigabyte\.gradle\caches\transforms-3\6fcdb564e381bf3e24bd8e1abe48d9ee\transformed\core-ktx-1.8.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-appcompat-1.5.1-14 C:\Users\Gigabyte\.gradle\caches\transforms-3\706e98460418fe2c12e4194f3b9f0bb1\transformed\appcompat-1.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-camera-camera2-1.2.0-alpha02-15 C:\Users\Gigabyte\.gradle\caches\transforms-3\752eb91a93407e4eb4c9bf811381c93a\transformed\camera-camera2-1.2.0-alpha02\res
+com.google.mediapipe.examples.gesturerecognizer.app-window-java-1.0.0-beta04-16 C:\Users\Gigabyte\.gradle\caches\transforms-3\75e3b0e4c5ec4bdfbee4b7e34178224c\transformed\window-java-1.0.0-beta04\res
+com.google.mediapipe.examples.gesturerecognizer.app-navigation-ui-2.5.3-17 C:\Users\Gigabyte\.gradle\caches\transforms-3\7932d6ad2ad8d01a1d2b3bad841ae359\transformed\navigation-ui-2.5.3\res
+com.google.mediapipe.examples.gesturerecognizer.app-viewpager2-1.0.0-18 C:\Users\Gigabyte\.gradle\caches\transforms-3\7bdf259198856ad6a2db03d7ab7c325b\transformed\viewpager2-1.0.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-lifecycle-runtime-2.5.1-19 C:\Users\Gigabyte\.gradle\caches\transforms-3\7de3cfa8aba8a45698b5b5d4975be02f\transformed\lifecycle-runtime-2.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-navigation-runtime-ktx-2.5.3-20 C:\Users\Gigabyte\.gradle\caches\transforms-3\8e4efbf794fd97d8e7565d91938975a2\transformed\navigation-runtime-ktx-2.5.3\res
+com.google.mediapipe.examples.gesturerecognizer.app-lifecycle-runtime-ktx-2.5.1-21 C:\Users\Gigabyte\.gradle\caches\transforms-3\8f3e6d4ef7848ef3d37ea8fdd1e7b27d\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-slidingpanelayout-1.2.0-22 C:\Users\Gigabyte\.gradle\caches\transforms-3\9a620d9e8e13c202b51ce2bea42f38cb\transformed\slidingpanelayout-1.2.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-navigation-runtime-2.5.3-23 C:\Users\Gigabyte\.gradle\caches\transforms-3\9f2582b8e5297416fc647fadb8a76c17\transformed\navigation-runtime-2.5.3\res
+com.google.mediapipe.examples.gesturerecognizer.app-lifecycle-viewmodel-savedstate-2.5.1-24 C:\Users\Gigabyte\.gradle\caches\transforms-3\9fc283bc28010b559344c2f5da28f2c3\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-cardview-1.0.0-25 C:\Users\Gigabyte\.gradle\caches\transforms-3\a360baa2a2a5ed73bf5e16140b8bba48\transformed\cardview-1.0.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-constraintlayout-2.1.4-26 C:\Users\Gigabyte\.gradle\caches\transforms-3\a48c27d5c321805e1c48bda5e7aa8541\transformed\constraintlayout-2.1.4\res
+com.google.mediapipe.examples.gesturerecognizer.app-core-1.8.0-27 C:\Users\Gigabyte\.gradle\caches\transforms-3\b78b944d8e73b7b92e7bcb582bcc393c\transformed\core-1.8.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-navigation-fragment-ktx-2.5.3-28 C:\Users\Gigabyte\.gradle\caches\transforms-3\ba362d5e949497656ddb018eb7acc474\transformed\navigation-fragment-ktx-2.5.3\res
+com.google.mediapipe.examples.gesturerecognizer.app-camera-core-1.2.0-alpha02-29 C:\Users\Gigabyte\.gradle\caches\transforms-3\bf158d17cf7edfa62346b6cbd8bd4168\transformed\camera-core-1.2.0-alpha02\res
+com.google.mediapipe.examples.gesturerecognizer.app-startup-runtime-1.1.1-30 C:\Users\Gigabyte\.gradle\caches\transforms-3\c766716f26ed1363e3f91ae70fd69256\transformed\startup-runtime-1.1.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-window-1.1.0-alpha03-31 C:\Users\Gigabyte\.gradle\caches\transforms-3\cb62d9776fad6387e19fbeaccada1c5c\transformed\window-1.1.0-alpha03\res
+com.google.mediapipe.examples.gesturerecognizer.app-navigation-ui-ktx-2.5.3-32 C:\Users\Gigabyte\.gradle\caches\transforms-3\d6ddbf8bc20f353a509fd2c1a48d6adb\transformed\navigation-ui-ktx-2.5.3\res
+com.google.mediapipe.examples.gesturerecognizer.app-savedstate-ktx-1.2.0-33 C:\Users\Gigabyte\.gradle\caches\transforms-3\d9471f0dcf98970fae9b9d1eea9c92fc\transformed\savedstate-ktx-1.2.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-transition-1.4.1-34 C:\Users\Gigabyte\.gradle\caches\transforms-3\daf2b3deb3758ed5a60ba759ce6f9d5b\transformed\transition-1.4.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-lifecycle-livedata-core-ktx-2.5.1-35 C:\Users\Gigabyte\.gradle\caches\transforms-3\de3fbd348c1c51689274b36b2af361ed\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-lifecycle-viewmodel-2.5.1-36 C:\Users\Gigabyte\.gradle\caches\transforms-3\e6f9e3abaf024b0242fc1491d907fa39\transformed\lifecycle-viewmodel-2.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-fragment-ktx-1.5.4-37 C:\Users\Gigabyte\.gradle\caches\transforms-3\e8116984d7d1f11876e9874ee667db34\transformed\fragment-ktx-1.5.4\res
+com.google.mediapipe.examples.gesturerecognizer.app-camera-lifecycle-1.2.0-alpha02-38 C:\Users\Gigabyte\.gradle\caches\transforms-3\e8e97c93bda0a14790245eb9ea9e792a\transformed\camera-lifecycle-1.2.0-alpha02\res
+com.google.mediapipe.examples.gesturerecognizer.app-activity-ktx-1.5.1-39 C:\Users\Gigabyte\.gradle\caches\transforms-3\f052d98f1115e4d9f3bcf4c315888f35\transformed\activity-ktx-1.5.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-lifecycle-process-2.4.1-40 C:\Users\Gigabyte\.gradle\caches\transforms-3\f4198f64d369f9f8a516682814187294\transformed\lifecycle-process-2.4.1\res
+com.google.mediapipe.examples.gesturerecognizer.app-navigation-common-2.5.3-41 C:\Users\Gigabyte\.gradle\caches\transforms-3\f74553e0c424ecf4984d753e21fec45e\transformed\navigation-common-2.5.3\res
+com.google.mediapipe.examples.gesturerecognizer.app-navigation-common-ktx-2.5.3-42 C:\Users\Gigabyte\.gradle\caches\transforms-3\fa312fae27c583dfaf8ecbe858bb2b6b\transformed\navigation-common-ktx-2.5.3\res
+com.google.mediapipe.examples.gesturerecognizer.app-emoji2-views-helper-1.2.0-43 C:\Users\Gigabyte\.gradle\caches\transforms-3\fd26820bbde7df420bdf681c4c78d626\transformed\emoji2-views-helper-1.2.0\res
+com.google.mediapipe.examples.gesturerecognizer.app-fragment-1.5.4-44 C:\Users\Gigabyte\.gradle\caches\transforms-3\fdeddcba835c7d11003f3a72d7501691\transformed\fragment-1.5.4\res
+com.google.mediapipe.examples.gesturerecognizer.app-pngs-45 C:\Users\Gigabyte\Desktop\ASL PROJECT\android_asl_translation\app\build\generated\res\pngs\debug
+com.google.mediapipe.examples.gesturerecognizer.app-resValues-46 C:\Users\Gigabyte\Desktop\ASL PROJECT\android_asl_translation\app\build\generated\res\resValues\debug
+com.google.mediapipe.examples.gesturerecognizer.app-rs-47 C:\Users\Gigabyte\Desktop\ASL PROJECT\android_asl_translation\app\build\generated\res\rs\debug
+com.google.mediapipe.examples.gesturerecognizer.app-packageDebugResources-48 C:\Users\Gigabyte\Desktop\ASL PROJECT\android_asl_translation\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.google.mediapipe.examples.gesturerecognizer.app-packageDebugResources-49 C:\Users\Gigabyte\Desktop\ASL PROJECT\android_asl_translation\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50 C:\Users\Gigabyte\Desktop\ASL PROJECT\android_asl_translation\app\build\intermediates\merged_res\debug
+com.google.mediapipe.examples.gesturerecognizer.app-debug-51 C:\Users\Gigabyte\Desktop\ASL PROJECT\android_asl_translation\app\src\debug\res
+com.google.mediapipe.examples.gesturerecognizer.app-main-52 C:\Users\Gigabyte\Desktop\ASL PROJECT\android_asl_translation\app\src\main\res
+com.google.mediapipe.examples.gesturerecognizer.app-packaged_res-53 C:\Users\Gigabyte\Desktop\ASL PROJECT\android_asl_translation\flutter_module\.android\Flutter\build\intermediates\packaged_res\debug

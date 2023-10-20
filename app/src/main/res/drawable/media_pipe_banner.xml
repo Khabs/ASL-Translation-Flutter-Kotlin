@@ -1,0 +1,25 @@
+<!-- This is the drawable resource file for a blue banner with the specified dimensions. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="568dp"
+    android:height="152dp"
+    android:viewportWidth="568"
+    android:viewportHeight="152">
+
+  <!-- Background rectangle covering the full size of the banner -->
+  <path
+      android:pathData="M0,0h568v152h-568z"
+      android:fillColor="#129EAF" />
+
+  <!--
+      You can add additional vector graphic elements here (text, logos, etc.)
+      as paths or groups. If you want to restore the circle or other elements,
+      you need to define them below with their respective 'pathData' and properties.
+  -->
+
+  <!-- Optional: Here's how you can add the circle from your original code -->
+  <!--
+  <path
+      android:pathData="M88,48C92.42,48 96,44.42 96,40C96,35.58 92.42,32 88,32C83.58,32 80,35.58 80,40C80,44.42 83.58,48 88,48Z"
+      android:fillColor="#FFFFFF" />
+  -->
+</vector>

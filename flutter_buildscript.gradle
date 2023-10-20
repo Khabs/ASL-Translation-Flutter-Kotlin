@@ -1,0 +1,29 @@
+buildscript {
+    repositories {
+        // Repositories for the Flutter plugin
+        google()
+        mavenCentral()
+        maven { url 'https://storage.googleapis.com/download.flutter.io' }
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.3.0' // adjust if necessary
+        // Add other classpath dependencies needed by your Flutter module
+    }
+}
+
+// Apply this buildscript only to projects that require the Flutter build environment.
+allprojects {
+    afterEvaluate { project ->
+        if (project.plugins.hasPlugin('FlutterPlugin')) {
+            project.buildscript {
+                repositories {
+                    // Repeating the repositories for clarity and isolation
+                    google()
+                    mavenCentral()
+                    maven { url 'https://storage.googleapis.com/download.flutter.io' }
+                }
+            }
+        }
+    }
+}
